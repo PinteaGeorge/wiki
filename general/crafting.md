@@ -121,4 +121,4 @@ Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrâ
 |<Image src="https://i.imgur.com/But86WW.png" alt="Sawnoff Shotgun" width="50" label="Sawnoff Shotgun"/>|<Image src="https://i.imgur.com/kzF7YP1.png" alt="12-gauge" width="50" label="12-gauge"/>|Nu este compatibilă cu atașamente|
 
 
-_Pentru o listă cu arme și alte obiecte ce pot fi confiscate de către LSPD: [Obiecte confisabile](../factions/lspd.md#obiecte-confiscabile)_
+_Pentru o listă cu arme și alte obiecte ce pot fi confiscate de către LSPD: [Obiecte confiscabile](../factions/lspd.md#obiecte-confiscabile)_
